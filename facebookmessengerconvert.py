@@ -2,7 +2,7 @@
 # This file must be placed in the same folder as your unzipped Facebook Messenger JSON files as well as your media folder.
 # When this runs, a window will open where you can select the JSON file of the specific person you want to convert or you
 # select "Convert all". New files and folders will be created for each person. Enjoy! -Created by Joseph Jay Cavallaro Jr.
-# with the help of Microsoft CoPilot and ChatGPT. Please check out my metal bands Edolus and Visions of Reality. Peace!
+# with the help of Microsoft CoPilot and ChatGPT. Please check out my metal bands Edolus and Visions of Reality. Peace!!
 
 
 import json
